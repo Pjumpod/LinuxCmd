@@ -1,2 +1,2 @@
 # LinuxCmd
-Linux command over apached
+Run the linux command over html
